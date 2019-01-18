@@ -1,35 +1,24 @@
 ## 煦泽互联
 
-软件定制开发、区块链定制开发、区块链钱包软件产品、系统集成服务、微信公众号开发、微信小程序开发、APP开发、云计算架构
+软件定制开发、区块链定制开发、区块链钱包软件产品、系统集成服务、微信公众号开发、微信小程序开发、APP开发、云计算架构、分销系统开发
 
-### Markdown
+# 团队技术特点
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 超大型互联网软件开发经验
+- 资深互联网技术背景
+- 高并发处理经验
+- 大数据处理经验
+## 微信应用开发经验
+- 微信公众号\小程序开发经验
+- 丰富的微信扫码开发经验
+## 区块链开发经验
+- 基于ERC20的钱包开发经验
+- AWS、阿里云区块链开发
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 专业的技术服务
+- 更加尊重客户软件运营价值。
+- 只交付可进行商业运营的专业级别的软件系统。
+- 愿意与客户一起探索长期合作价值。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexzhcn/yucent.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+联系我们 [Link](mailto:q66741692@foxmail.com)
